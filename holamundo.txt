@@ -1,8 +1,0 @@
-
-hola
-estoy en la segunda rama
-
-hago un conflicto en master
-
-vamos a hacer un conflicto
-
